@@ -1,0 +1,6 @@
+nav{
+ display: flex;
+ justify-content: space-evenly;
+ background-color: rgb(231, 188, 133);
+ font-size: 3vmin;
+}
